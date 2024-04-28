@@ -4,6 +4,9 @@
 - Resultados_1.mat
 - Simulacao.mat
 
+- **import into matlab compiler through Home -> import data -> import wizard**
+- ![image](https://github.com/brian09088/Energy-efficient-routing-in-LEO-satellite-networks/assets/72643996/9aee75b0-b187-47e3-93bc-a86805b1fb0b)
+
 ------
 
 ## Each contain below structure and columns
